@@ -9,7 +9,6 @@ import pro.skype.Homework25.service.DepartmentService;
 
 import java.util.List;
 import java.util.Map;
-
 @RestController
 @RequestMapping("/departments")
 public class DepartmentController {
